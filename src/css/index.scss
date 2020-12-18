@@ -1,0 +1,30 @@
+.REACTIONMARK button {
+    color: #666666;
+	background: #FFF;
+    border: 1px solid #666666;
+	margin: 5px;
+	float: left;
+	
+	font-size: 14px;
+}
+.REACTION button {
+    color: #dbdbdb;
+	background: #FFF;
+    border: 1px solid #DEDEDE;
+	margin: 5px;
+	float: left;
+	
+	font-size: 14px;
+}
+.REACTIONCLEAR {
+	clear: both;
+}
+.REACTIONHIDE {
+    display:none;
+}
+
+.REACTION button:hover {
+    
+		background: #f2f2f2;
+	
+}
